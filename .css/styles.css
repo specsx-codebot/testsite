@@ -3,7 +3,6 @@
 body{
 	background-color: powderblue;
 	/*font-family: impact,charcoal,sans-serif;*/
-	font-family: "Comic Sans MS",Cursive,sans-serif;
 	margin: .5em 2em .5em 2em;
 }
 	
@@ -32,11 +31,6 @@ hr{
 }
 
 
-img{
-	opacity: 100%;
-}
-
-
 .footer{
 	color: #66bfbf;
 	font-family: impact,charcoal,sans-serif;
@@ -45,4 +39,5 @@ img{
 
 .content{
 	font-size: 23px;
+	font-family: "Comic Sans MS",Cursive,sans-serif;
 }
